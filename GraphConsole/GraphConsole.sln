@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphConsole", "GraphConsole\GraphConsole.csproj", "{AD67050B-4613-4597-9171-75ABE4843E2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD67050B-4613-4597-9171-75ABE4843E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD67050B-4613-4597-9171-75ABE4843E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD67050B-4613-4597-9171-75ABE4843E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD67050B-4613-4597-9171-75ABE4843E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EE8A9F8-3532-4B7B-9146-1D3A29DE9D22}
+	EndGlobalSection
+EndGlobal
